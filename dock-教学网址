@@ -1,0 +1,25 @@
+dock安装nginx
+https://www.cnblogs.com/niceyoo/p/11546370.html
+
+dock运行nginx容器时报错的解决方法
+https://www.cnblogs.com/xishaohui/p/8871994.html
+
+容器互访问
+https://www.cnblogs.com/xiao987334176/p/12345246.html
+
+docker搭建环境
+https://segmentfault.com/a/1190000020631754?utm_source=tag-newest
+
+docker搭建django
+https://www.cnblogs.com/pythonsnowhiwte/p/12852314.html
+https://blog.csdn.net/j123__/article/details/87205426
+https://www.cnblogs.com/ghylpb/p/12616943.html
+https://www.cnblogs.com/ghylpb/p/12616943.html
+
+docker搭建mysql
+https://www.cnblogs.com/zhi-leaf/p/10561766.html
+
+docker搭建redis
+https://blog.csdn.net/weixin_42456466/article/details/87270959
+
+docker run -p 6379:6379 --name myredis -v /home/redis/redis.conf:/etc/redis/redis.conf -v /home/redis/data:/data -d redis:5.0.9 redis-server /etc/redis/redis.conf --appendonly yes
